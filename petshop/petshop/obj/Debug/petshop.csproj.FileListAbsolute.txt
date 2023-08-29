@@ -1,0 +1,11 @@
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\bin\Debug\petshop.exe.config
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\bin\Debug\petshop.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\bin\Debug\petshop.pdb
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.csproj.AssemblyReference.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.Form1.resources
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.Properties.Resources.resources
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.csproj.GenerateResource.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.csproj.CoreCompileInputs.cache
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.exe
+C:\Users\Ander\OneDrive\Área de Trabalho\treinamento\C#\PetShop\PetShop-WindowsForms\petshop\petshop\obj\Debug\petshop.pdb
